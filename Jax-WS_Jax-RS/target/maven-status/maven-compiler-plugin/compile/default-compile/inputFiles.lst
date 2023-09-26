@@ -1,3 +1,5 @@
-F:\projets\web services\Jax-WS_Jax-RS\src\main\java\soap\AgeService.java
-F:\projets\web services\Jax-WS_Jax-RS\src\main\java\exceptions\AgeException.java
-F:\projets\web services\Jax-WS_Jax-RS\src\main\java\exceptions\AgeFault.java
+F:\projets\web services\Jax-WS_Jax-RS\src\main\java\soap\exceptions\AgeException.java
+F:\projets\web services\Jax-WS_Jax-RS\src\main\java\soap\adapter\LocalDateTimeAdapter.java
+F:\projets\web services\Jax-WS_Jax-RS\src\main\java\soap\data\Book.java
+F:\projets\web services\Jax-WS_Jax-RS\src\main\java\soap\exceptions\AgeFault.java
+F:\projets\web services\Jax-WS_Jax-RS\src\main\java\soap\TestService.java

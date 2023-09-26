@@ -1,4 +1,4 @@
-package exceptions;
+package soap.exceptions;
 
 import javax.xml.ws.WebFault;
 

@@ -1,4 +1,4 @@
-package exceptions;
+package soap.exceptions;
 
 public class AgeFault {
 

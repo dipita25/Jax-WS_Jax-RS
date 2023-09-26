@@ -1,3 +1,5 @@
-exceptions\AgeFault.class
-soap\AgeService.class
-exceptions\AgeException.class
+soap\exceptions\AgeFault.class
+soap\exceptions\AgeException.class
+soap\data\Book.class
+soap\adapter\LocalDateTimeAdapter.class
+soap\TestService.class
